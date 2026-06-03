@@ -1,8 +1,6 @@
-# Tehran-stock-exchange-Russia-Ukraine-event-study
-Event-study analysis of the Tehran Stock Exchange reaction to the Russia–Ukraine war, including a short English thesis version, Stata code, and dataset
 # Silent Markets in a Turbulent World: The Weak Response of the Tehran Stock Exchange to the Russia–Ukraine War
 
-This repository contains a short English version of my master’s thesis, together with the Stata code and dataset used for the empirical analysis.
+Event-study analysis of the Tehran Stock Exchange reaction to the Russia–Ukraine war, including a short English thesis version, Stata code, and dataset
 
 The thesis studies how investors in the Tehran Stock Exchange reacted to the beginning of the Russia–Ukraine war. The event date is defined as **February 26, 2022** / **7 Esfand 1400**, which corresponds to the first relevant trading date for the Iranian stock market after the start of the war.
 
