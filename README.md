@@ -47,15 +47,12 @@ The study also finds that:
 
 ## Repository Structure
 
-```text
-.
+project-root/
+├── README.md
 ├── thesis/
 │   └── Karami_English_Thesis_Short.pdf
-│
-├── data/
-│   └── data_file.dta
-│
 ├── code/
-│   └── event_study_analysis.do
-│
-└── README.md
+│   └── event_study_github_ready.do
+└── data/
+    └── processed/
+        └── analysis_data.dta
